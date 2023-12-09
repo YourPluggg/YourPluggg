@@ -3,7 +3,7 @@
   <img src="https://media1.tenor.com/m/Fb_fs8F8m34AAAAC/guts.gif" width="500"/>
 </div>
 <H1>I Miss, but working</H1>
-
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <!--
 **YourPluggg/YourPluggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div id="header" align="center">
