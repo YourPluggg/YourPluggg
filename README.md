@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/DWYqdNlJGEUAAAAC/akashi-emperor.gif" width="500"/>
+  <img src="https://media1.tenor.com/m/Fb_fs8F8m34AAAAC/guts.gif" width="500"/>
 </div>
 
 
@@ -10,7 +10,9 @@
   <iframe src="https://giphy.com/embed/p4w0AMZJa2EtG" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/crying-berserk-p4w0AMZJa2EtG">via GIPHY</a></p>
 </div>
 
-
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/DWYqdNlJGEUAAAAC/akashi-emperor.gif" width="500"/>
+</div>
 
 Here are some ideas to get you started:
 
