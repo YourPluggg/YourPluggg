@@ -5,6 +5,7 @@
 <H1>Some information about me</H1>
 <H3>- I Miss, but working</H3>
 <h3>- It turns out I'm quite popular 😄
+<b>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </h3>
 
