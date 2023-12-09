@@ -1,8 +1,8 @@
-<H1 align="center">Hi, everybody</H1>
+<H1 align="center">Hi, everybody 😄</H1>
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/Fb_fs8F8m34AAAAC/guts.gif" width="500"/>
 </div>
-<H1>Miss, but working</H1>
+<H1>I Miss, but working</H1>
 
 <!--
 **YourPluggg/YourPluggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
