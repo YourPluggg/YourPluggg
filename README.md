@@ -1,4 +1,4 @@
-<H1 align="center">Hi, everybody 😄</H1>
+<H1 align="center">Hi, everybody 👋</H1>
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/Fb_fs8F8m34AAAAC/guts.gif" width="500"/>
 </div>
