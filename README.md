@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/GKvpHF3AjTIAAAAC/akashi-glare.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/GKvpHF3AjTIAAAAC/akashi-glare.gif" width="500"/>
 </div>
 
 
