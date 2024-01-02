@@ -9,6 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </h3>
 <H3>- My activity</H3>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YourPluggg&theme=highcontrast)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=YourPluggg&theme=dark&border_radius=11.1" alt="GitHub Streak" /></a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
 
