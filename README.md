@@ -10,7 +10,7 @@
 </h3>
 <H3>- My activity</H3>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=YourPluggg&theme=dark&border_radius=11.1" alt="GitHub Streak" /></a>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
 
 <!--
 **YourPluggg/YourPluggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
