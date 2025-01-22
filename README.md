@@ -1,37 +1,47 @@
-<H1 align="center">Hi, everybody 👋</H1>
-<div id="header" align="center">
-  <img src="https://media1.tenor.com/m/Fb_fs8F8m34AAAAC/guts.gif" width="500"/>
+<H1 align="center">Welcome to My GitHub Profile! 🌟</H1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="400"/>
 </div>
 
-<H2 align="center">Welcome to my GitHub profile!</H2>
+<H2 align="center">About Me</H2>
 <p align="center">
-  🚀 Exploring the world of code and building cool projects.
+  Hi there! I'm a passionate developer who loves turning ideas into reality through code.
 </p>
 
 <hr>
 
-<H3>About Me</H3>
+<H3>🔧 My Skills</H3>
 <ul>
-  <li>💻 Passionate about technology and programming.</li>
-  <li>📚 Always learning and improving my skills.</li>
-  <li>🌟 Sharing knowledge and collaborating with the community.</li>
+  <li>Programming Languages: Python, JavaScript, and more.</li>
+  <li>Frameworks: React, Node.js, Flask.</li>
+  <li>Tools: Git, Docker, VS Code.</li>
 </ul>
 
-<H3>Stats</H3>
+<H3>📈 GitHub Stats</H3>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=YourPluggg&theme=dark&border_radius=11.1" alt="GitHub Streak" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=YourPluggg&theme=radical&border_radius=10" alt="GitHub Streak" />
   </a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourPluggg&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <hr>
 
-<H3>Get in Touch</H3>
-<p>
+<H3>🌐 Connect with Me</H3>
+<p align="center">
   <a href="https://github.com/YourPluggg"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
+
+<H3>💡 Fun Fact</H3>
+<p>
+  When I'm not coding, you can find me exploring new technologies, reading sci-fi books, or gaming! 🎮
+</p>
+
+<hr>
 
 
 <!--
