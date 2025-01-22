@@ -2,14 +2,36 @@
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/Fb_fs8F8m34AAAAC/guts.gif" width="500"/>
 </div>
-<H1>Some information about me</H1>
-<H3>- I Miss, but working</H3>
-<h3>- It turns out I'm quite popular 😄
-<br>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-</h3>
-<H3>- My activity</H3>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=YourPluggg&theme=dark&border_radius=11.1" alt="GitHub Streak" /></a>
+
+<H2 align="center">Welcome to my GitHub profile!</H2>
+<p align="center">
+  🚀 Exploring the world of code and building cool projects.
+</p>
+
+<hr>
+
+<H3>About Me</H3>
+<ul>
+  <li>💻 Passionate about technology and programming.</li>
+  <li>📚 Always learning and improving my skills.</li>
+  <li>🌟 Sharing knowledge and collaborating with the community.</li>
+</ul>
+
+<H3>Stats</H3>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=YourPluggg&theme=dark&border_radius=11.1" alt="GitHub Streak" />
+  </a>
+</div>
+
+<hr>
+
+<H3>Get in Touch</H3>
+<p>
+  <a href="https://github.com/YourPluggg"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
 
 <!--
@@ -32,4 +54,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<H1 align="center">Hi, everybody 👋</H1>
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/Fb_fs8F8m34AAAAC/guts.gif" width="500"/>
+</div>
+<H1>Some information about me</H1>
+<H3>- I Miss, but working</H3>
+<h3>- It turns out I'm quite popular 😄
+<br>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</h3>
+<H3>- My activity</H3>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=YourPluggg&theme=dark&border_radius=11.1" alt="GitHub Streak" /></a>
+
+
+
 -->
