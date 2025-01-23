@@ -38,7 +38,7 @@
   <a href="https://x.com/Pluggg1Your"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white"/></a>
 </p>
 
-<H3>💡 Fun Fact</H3>
+<H3>💡 Fact</H3>
 <p>
   If I don't program, then I'm selling something.
 </p>
