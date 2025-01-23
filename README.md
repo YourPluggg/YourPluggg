@@ -6,16 +6,16 @@
 
 <H2 align="center">About Me</H2>
 <p align="center">
-  Hi there! I'm a passionate developer who loves turning ideas into reality through code.
+  Hello everyone! I'm a novice programmer.
 </p>
 
 <hr>
 
 <H3>🔧 My Skills</H3>
 <ul>
-  <li>Programming Languages: Python, JavaScript, and more.</li>
-  <li>Frameworks: React, Node.js, Flask.</li>
-  <li>Tools: Git, Docker, VS Code.</li>
+  <li>Programming Languages: С, С++.</li>
+  <li>Frameworks: QT</li>
+  <li>Tools: Git, Docker, Microsoft Visual Studio.</li>
 </ul>
 
 <H3>📈 GitHub Stats</H3>
