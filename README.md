@@ -1,7 +1,7 @@
 <H1 align="center">Welcome to My GitHub Profile! </H1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="400"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRhZmd4c2Rrd3loOHN2Zzgyb212ZXd2ZmsybzVrMHdzcHIycWRxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ujZtlj1Y7wXyE/giphy.gif" width="400"/>
 </div>
 
 <H2 align="center">About Me</H2>
